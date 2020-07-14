@@ -1,0 +1,7 @@
+*.o
+*.txt
+app
+_logs/
+__pycache__/
+autogen.S
+
